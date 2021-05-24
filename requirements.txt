@@ -1,0 +1,5 @@
+python 3
+
+apt-get install python3-tk
+sudo pip install pil
+sql server 
